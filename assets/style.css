@@ -1,0 +1,11 @@
+.btn {
+    border: 1px solid;
+}
+
+.info {
+    display: flex;
+}
+
+.task {
+    font-size: 2em;
+}
